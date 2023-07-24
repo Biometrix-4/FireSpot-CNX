@@ -5,7 +5,7 @@ Forest Fire/ Smoke in Chiang Mai, Thailand
 
 ## About
 
-D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 21,000 images.
+FireSpot-CNX  an image dataset of smoke occurance, consisting of 2,000 smoke images and 2,000 non-smoke images. These images were obtained from five distinct locations in Chiang Mai Thailand,  Moreover this dataset is capture in natural surroundings and moutain area. The dataset features a variety of camera angles to improve the model's capacity to detect smoke from different angles. This dataset proved to be an valuable resource for researchers, engineers, and developers working on smoke detection and picture recognition applications because of its broad diversity and distinctive makeup.
 
 <div align="center">
 <table>
@@ -18,17 +18,14 @@ D-Fire is an image dataset of fire and smoke occurrences designed for machine le
 
   | Category | # Images |
   | ------------- | ------------- |
-  | Only fire  | 1,164  |
-  | Only smoke  | 5,867  |
-  | Fire and smoke  | 4,658  |
-  | None  | 9,838  |
+  | smoke  | 2,000 |
+  | None  | 2,000  |
 
   </td><td>
 
   | Class | # Bounding boxes |
   | ------------- | ------------- |
-  | Fire  | 14,692 |
-  | Smoke  | 11,865 |
+  | smoke  | 2,000 |
 
   </td></tr> 
 </table>
@@ -45,9 +42,10 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 
 </div>
 
+
 ## Download
 
-* [D-Fire dataset (Training, validation and test sets)](https://www.dropbox.com/scl/fo/jpheymj5odn3xkrkt29r2/h?rlkey=ely1wck6qoqok9x6nf9on568m&dl=0).
+* [FireSpot-CNX-r1 (Training, validation and test sets)](https://www.dropbox.com/scl/fo/jpheymj5odn3xkrkt29r2/h?rlkey=ely1wck6qoqok9x6nf9on568m&dl=0).
 
 ## Citation
 
