@@ -1,10 +1,11 @@
 # FireSpot-CNX
 
 **Authors:** 
+Gun, Pip, Kanokvate T., Jessada K.
 
 ## About
 
-FireSpot-CNX  an image dataset of smoke occurance, consisting of 2,000 smoke images and 2,000 non-smoke images. These images were obtained from five distinct locations in Chiang Mai Thailand,  Moreover this dataset is capture in natural surroundings and moutain area. The dataset features a variety of camera angles to improve the model's capacity to detect smoke from different angles. This dataset proved to be an valuable resource for researchers, engineers, and developers working on smoke detection and picture recognition applications because of its broad diversity and distinctive makeup.
+The <b>FireSpot</b> database is developed based on a collaboration between National Electronics and Computer Technology Center (NECTEC) and three local municipalities, including Pa Miang, Nong Yaeng, and Choeng Doi, in Chiang Mai, Thailand. In the current release, it consists of 4,000 images. Half of them contain smoke in the early burning stages, and another half do not. Smoke areas in those images are labeled with bounding boxes. The bounding box values are a quadruple $(x_c,y_c,w,h)$, where $(x_c,y_c)$ is the Cartesian coordinates of the point at the box center, $w$ is the box width, and $h$ is the box height. The bounding box values are normalized to the maximum of $1$, i.e., range from $0$ to $1$, of which the point at $(0,0)$ represents the top-left corner, and the point at $(1,1)$ represents the bottom-right corner of the image.
 
 <div align="center">
 <table>
@@ -17,21 +18,20 @@ FireSpot-CNX  an image dataset of smoke occurance, consisting of 2,000 smoke ima
 
   | Category | # Images |
   | ------------- | ------------- |
-  | smoke  | 2,000 |
+  | Smoke  | 2,000 |
   | None  | 2,000  |
 
   </td><td>
 
   | Class | # Bounding boxes |
   | ------------- | ------------- |
-  | smoke  | 2,000 |
+  | Smoke  | 2,000 |
 
   </td></tr> 
 </table>
 </div>
 
-All images were annotated according to the YOLO format (normalized coordinates between 0 and 1). 
-However, we provide the yolo2pixel function that converts coordinates in YOLO format to coordinates in pixels.
+Note: We provide the $emph{yolo2pixel}$ function that converts coordinates in the YOLO format to coordinates in pixels.
 
 ***
 
@@ -40,7 +40,6 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 <div align="center">
 
 </div>
-
 
 ## Download
 
