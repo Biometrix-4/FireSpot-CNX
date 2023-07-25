@@ -38,7 +38,7 @@ Note: We provide the $emph{yolo2pixel}$ function that converts coordinates in th
 ## Examples
 
 <div align="center">
-  <img alt="Smoke1 Image" src="[https://drive.google.com/file/d/1mjwfKdQE7W_c9EVbZUsOYn6IcgY89mJS/view?usp=drive_link](https://drive.google.com/file/d/1mjwfKdQE7W_c9EVbZUsOYn6IcgY89mJS/view?usp=drive_link)">
+  <img alt="Smoke1 Image" src="https://drive.google.com/file/d/1mjwfKdQE7W_c9EVbZUsOYn6IcgY89mJS/view?usp=drive_link">
   <img alt="Smoke2 Image" src="[https://drive.google.com/file/d/1n8iM-z93JvxF9ruWW9-Z9okeSEh5S_OH/view?usp=sharing](https://drive.google.com/file/d/1n8iM-z93JvxF9ruWW9-Z9okeSEh5S_OH/view?usp=drive_link)">
   <img alt="Smoke3 Image" src="[https://drive.google.com/file/d/1n8iM-z93JvxF9ruWW9-Z9okeSEh5S_OH/view?usp=sharing](https://drive.google.com/file/d/1G2Ah3sUe7Up2mQTFV-0h-ILwEg5aTLGm/view?usp=drive_link)">
   <img alt="Smoke1 Image" src="[(https://drive.google.com/file/d/1mjwfKdQE7W_c9EVbZUsOYn6IcgY89mJS/view?usp=drive_link)](https://drive.google.com/file/d/1sxJRXMPKrVWQIfv2KaDfr8p7aOIqErmG/view?usp=drive_link)">
