@@ -51,16 +51,19 @@ Note: We provide the $emph{yolo2pixel}$ function that converts coordinates in th
       <img alt="Smoke3 Image" src="https://drive.google.com/uc?id=1G2Ah3sUe7Up2mQTFV-0h-ILwEg5aTLGm">
     </td>
     <td align="center">
-      <img alt="Smoke4 Image" src="https://drive.google.com/uc?id=1sxJRXMPKrVWQIfv2KaDfr8p7aOIqErmG">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=1sxJRXMPKrVWQIfv2KaDfr8p7aOIqErmG">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="Smoke5 Image" src="https://drive.google.com/uc?id=11X7Z3lxy-dNoaXsqL2GrO4Nu-iXplqpw">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=11X7Z3lxy-dNoaXsqL2GrO4Nu-iXplqpw">
     </td>
-    <td></td> <!-- Empty cell to maintain the layout -->
+    <td align="center">
+      <img alt="Additional Image" src="https://drive.google.com/uc?id=1SXAmyUeWpi0XB4dgMiqIVj44VjFlZkzg">
+    </td>
   </tr>
 </table>
+
 
 
 
