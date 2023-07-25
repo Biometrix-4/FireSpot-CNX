@@ -1,7 +1,7 @@
 # FireSpot-CNX
 
 **Authors:** 
-Gun, Pip, Kanokvate T., Jessada K.
+Natthaphol P., Warit P., Kanokvate T., Jessada K.
 
 ## About
 
