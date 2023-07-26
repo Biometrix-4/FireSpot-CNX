@@ -31,7 +31,7 @@ The <b>FireSpot</b> database is developed based on a collaboration between Natio
 </table>
 </div>
 
-Note: We provide the $emph{yolo2pixel}$ function that converts coordinates in the YOLO format to coordinates in pixels.
+Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates in the YOLO format to coordinates in pixels.
 
 ***
 
