@@ -75,3 +75,6 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 
 Please cite the following paper if you use our image database:
 
+## Sponsor & Project members
+
+![Organizations](https://drive.google.com/uc?id=1RFr4t7D0pVGwEVmGBtTSod5SG_fuegMU)
