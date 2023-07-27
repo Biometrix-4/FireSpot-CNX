@@ -40,26 +40,26 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 <table>
   <tr>
     <td align="center">
-      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=17srKpo5JyoK309sY0jBpvRHX2LyvT0l2" width="504" height="378">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=17srKpo5JyoK309sY0jBpvRHX2LyvT0l2" width="400" height="300">
     </td>
     <td align="center">
-      <img alt="Smoke2 Image" src="https://drive.google.com/uc?id=17qnoDD_ucQTkckG5e_PPDU4eMRU-Zpw6" width="493" height="370">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Smoke3 Image" src="https://drive.google.com/uc?id=1G2Ah3sUe7Up2mQTFV-0h-ILwEg5aTLGm">
-    </td>
-    <td align="center">
-      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=1sxJRXMPKrVWQIfv2KaDfr8p7aOIqErmG">
+      <img alt="Smoke2 Image" src="https://drive.google.com/uc?id=17qnoDD_ucQTkckG5e_PPDU4eMRU-Zpw6" width="400" height="300">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=11X7Z3lxy-dNoaXsqL2GrO4Nu-iXplqpw">
+      <img alt="Smoke3 Image" src="https://drive.google.com/uc?id=17a4Bs3XyltTpIbNJW_bJGLG5uK9f-9GK" width="400" height="300">
     </td>
     <td align="center">
-      <img alt="Additional Image" src="https://drive.google.com/uc?id=1SXAmyUeWpi0XB4dgMiqIVj44VjFlZkzg">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=17yixYzhhBtcHg8GnxhKJ7TLSuZFTK5A-" width="400" height="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=17ahTS0WI2aRvmEvusUI2aJNCXVKHAeUV" width="400" height="300">
+    </td>
+    <td align="center">
+      
     </td>
   </tr>
 </table>
