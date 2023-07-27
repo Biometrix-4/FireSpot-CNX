@@ -73,7 +73,7 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 
 ## Citation
 
-Please cite the following paper if you use our image database:
+Please cite the following paper if you use our image database.
 
 ## Sponsor & Project members
 
