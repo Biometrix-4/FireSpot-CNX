@@ -59,7 +59,7 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
       <img alt="Image 5" src="https://drive.google.com/uc?id=17ahTS0WI2aRvmEvusUI2aJNCXVKHAeUV" width="400" height="300">
     </td>
     <td align="center">
-      <img alt="Image 6" src="https://drive.google.com/uc?id=17srKpo5JyoK309sY0jBpvRHX2LyvT0l2" width="400" height="300">
+      <img alt="Image 6" src="https://drive.google.com/uc?id=187wybd8fpRNizTidhMnT24o_FpnTIxnO" width="400" height="300">
     </td>
   </tr>
 </table>
