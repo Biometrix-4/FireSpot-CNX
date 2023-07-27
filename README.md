@@ -40,10 +40,10 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 <table>
   <tr>
     <td align="center">
-      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=1mjwfKdQE7W_c9EVbZUsOYn6IcgY89mJS">
+      <img alt="Smoke1 Image" src="https://drive.google.com/uc?id=17srKpo5JyoK309sY0jBpvRHX2LyvT0l2">
     </td>
     <td align="center">
-      <img alt="Smoke2 Image" src="https://drive.google.com/uc?id=1n8iM-z93JvxF9ruWW9-Z9okeSEh5S_OH">
+      <img alt="Smoke2 Image" src="https://drive.google.com/uc?id=17qnoDD_ucQTkckG5e_PPDU4eMRU-Zpw6">
     </td>
   </tr>
   <tr>
