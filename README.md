@@ -69,7 +69,7 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 
 ## Download
 
-* [FireSpot-CNX-r1 (Only images and labels)](https://www.dropbox.com/scl/fo/jpheymj5odn3xkrkt29r2/h?rlkey=ely1wck6qoqok9x6nf9on568m&dl=0).
+* [FireSpot-CNX-r1 (Images and labels)](https://www.dropbox.com/scl/fo/jpheymj5odn3xkrkt29r2/h?rlkey=ely1wck6qoqok9x6nf9on568m&dl=0).
 
 ## Citation
 
