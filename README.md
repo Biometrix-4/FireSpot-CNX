@@ -73,9 +73,9 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 
 ## Citation
 
-Please cite the following paper if you use our image database.
+Please cite the following paper if you use our image database. (Under publication process)
 
-Natthaphol Pornpholkullapat, Warit Phankrawee, Peraphat Boondet, Thin Lai Lai Thein, Phoummixay Siharath, Jennifer Dela Cruz, Ken T. Murata, Konokvate Tungpimolrut, and Jessada Karnjana, "<b>FireSpot: A Database for Smoke Detection in Early-stage Wildfires</b>."
+Natthaphol Pornpholkullapat, Warit Phankrawee, Peraphat Boondet, Thin Lai Lai Thein, Phoummixay Siharath, Jennifer Dela Cruz, Ken T. Murata, Konokvate Tungpimolrut, and Jessada Karnjana, "<b>FireSpot: A Database for Smoke Detection in Early-stage Wildfires</b>," in Proc. of the 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2023), Bangkok, 2023.
 
 ## Sponsor & Project members
 
