@@ -73,9 +73,11 @@ Note: We provide the <i><b>yolo2pixel</b></i> function that converts coordinates
 
 ## Citation
 
-Please cite the following paper if you use our image database. (Under publication process)
+Please cite the following paper if you use our image database:
 
-Natthaphol Pornpholkullapat, Warit Phankrawee, Peraphat Boondet, Thin Lai Lai Thein, Phoummixay Siharath, Jennifer Dela Cruz, Ken T. Murata, Konokvate Tungpimolrut, and Jessada Karnjana, "<b>FireSpot: A Database for Smoke Detection in Early-stage Wildfires</b>," in Proc. of the 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2023), Bangkok, 2023.
+Pornpholkullapat, N., Phankrawee, W., Boondet, P., Thein, T.L.L., Siharath, P., Cruz, J.D., Marata, K.T., Tungpimolrut, K. and Karnjana, J., 2023, November. FireSpot: A Database for Smoke Detection in Early-stage Wildfires. In 2023 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP) (pp. 1-6). IEEE.
+
+doi: https://doi.org/10.1109/iSAI-NLP60301.2023.10354807
 
 ## Sponsor & Project members
 
