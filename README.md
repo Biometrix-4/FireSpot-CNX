@@ -18,14 +18,14 @@ The <b>FireSpot</b> database is developed based on a collaboration between Natio
 
   | Category | # Images |
   | ------------- | ------------- |
-  | Smoke  | 2,000 |
-  | None  | 2,000  |
+  | Smoke  | 2,817 |
+  | None  | 1,179  |
 
   </td><td>
 
   | Class | # Bounding boxes |
   | ------------- | ------------- |
-  | Smoke  | 2,000 |
+  | Smoke  | 2,817 |
 
   </td></tr> 
 </table>
